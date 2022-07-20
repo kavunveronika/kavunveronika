@@ -1,4 +1,12 @@
-### Hi there 👋
+### Former QA :bug:, finding joy in Web Development :computer:. I love Javascript and React.
+
+Some of my personal projects: 
+
+:newspaper: MERN full stack <a href="https://explorenews.herokuapp.com/">News Explorer<a> <br> <br>
+:octocat: Github User Search (just React front end) <a href="https://git-user-search-vk.herokuapp.com/">User Search<a> <br> <br>
+:sheep: WIP sheep tracking app (Vue+Express+GraphQL+PostgresQL)  <a href="https://git-user-search-vk.herokuapp.com/">MyFlock<a><br> <br>
+
+
 
 <!--
 **kavunveronika/kavunveronika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
