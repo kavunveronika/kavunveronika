@@ -4,7 +4,7 @@ Some of my personal projects:
 
 :newspaper: MERN full stack <a href="https://explorenews.herokuapp.com/" target="_blank">News Explorer<a> <br> <br>
 :octocat: Github User Search (just React front end) <a href="https://git-user-search-vk.herokuapp.com/" target="_blank">User Search<a> <br> <br>
-:sheep: WIP sheep tracking app (Vue+Express+GraphQL+PostgresQL)  <a href="https://sheep-front-end.herokuapp.com/" target="_blank"MyFlock<a><br> <br>
+:sheep: WIP sheep tracking app (Vue+Express+GraphQL+PostgresQL)  <a href="https://sheep-front-end.herokuapp.com/" target="_blank">MyFlock<a><br> <br>
 
 
 
