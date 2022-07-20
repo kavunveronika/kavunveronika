@@ -2,9 +2,9 @@
 
 Some of my personal projects: 
 
-:newspaper: MERN full stack project for news search <a href="https://explorenews.herokuapp.com/" target="_blank">News Explorer<a> <br> <br>
-:octocat: Github User Search (just React front end) <a href="https://git-user-search-vk.herokuapp.com/" target="_blank">User Search<a> <br> <br>
-:sheep: WIP sheep tracking app (Vue+Express+GraphQL+PostgresQL)  <a href="https://sheep-front-end.herokuapp.com/" target="_blank">MyFlock<a><br> <br>
+:newspaper: <a href="https://explorenews.herokuapp.com/" target="_blank">News Explorer<a> (MERN full stack)  <br> <br>
+:octocat: <a href="https://git-user-search-vk.herokuapp.com/" target="_blank"> Github User Search<a> (React + Git V3 Rest API)  <br> <br>
+:sheep: <a href="https://sheep-front-end.herokuapp.com/" target="_blank">WIP sheep tracking app<a> (Vue+Express+GraphQL+PostgresQL)  <br> <br>
 
 
 
