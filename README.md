@@ -1,5 +1,9 @@
 ### Former QA :bug:, finding joy in Web Development :computer:. I love Javascript and React.
+Some of my personal projects: 
 
+- Github user search (React and styled components) - https://git-user-search.onrender.com
+- Final project from the full stack bootcamp (MERN stack) - https://news-explorer-vb.onrender.com/
+- WIP sheep flock tracker (Vue, GrahpQL, Postgress, Express, Apollo, Sequelize) - https://sheep-tracker.onrender.com/
 
 <!--
 **kavunveronika/kavunveronika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
