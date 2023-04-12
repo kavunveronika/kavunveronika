@@ -3,7 +3,8 @@ Some of my personal projects:
 
 - Github user search (React and styled components) - https://git-user-search.onrender.com
 - Final project from the full stack bootcamp (MERN stack) - https://news-explorer-vb.onrender.com/
-- WIP sheep flock tracker (Vue, GrahpQL, Postgress, Express, Apollo, Sequelize) - https://sheep-tracker.onrender.com/
+- WIP sheep flock tracker for mobile (React Native, SQLite) - https://appetize.io/app/fec5xrlagpvfxg35y7i7uomz5y?device=nexus5&osVersion=11.0&scale=100
+- WIP sheep flock tracker for web full stack (Vue, GrahpQL, Postgress, Express, Apollo, Sequelize) - https://sheep-tracker.onrender.com/
 
 <!--
 **kavunveronika/kavunveronika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
