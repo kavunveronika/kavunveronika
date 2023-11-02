@@ -1,10 +1,10 @@
 ### Former QA :bug:, finding joy in Web Development :computer:. I love Javascript and React.
 Some of my personal projects: 
 
-- Github user search (React and styled components) - https://git-user-search.onrender.com
-- Final project from the full stack bootcamp (MERN stack) - https://news-explorer-vb.onrender.com/
-- WIP sheep flock tracker for mobile (React Native, SQLite) - [https://appetize.io/app/fec5xrlagpvfxg35y7i7uomz5y?device=nexus5&osVersion=11.0&scale=100](https://appetize.io/app/hhoycnosa5aj3ce7u3piawsndu?device=pixel4&osVersion=11.0&scale=100)
-- WIP sheep flock tracker for web full stack (Vue, GrahpQL, Postgress, Express, Apollo, Sequelize) - https://sheep-tracker.onrender.com/
+- [Github user search](https://git-user-search.onrender.com) (React and styled components)
+- [NewsExplorer](https://news-explorer-vb.onrender.com/) Final project from the full stack bootcamp (MERN stack)
+- WIP [sheep flock tracker for mobile](https://appetize.io/app/hhoycnosa5aj3ce7u3piawsndu?device=pixel4&osVersion=11.0&scale=100) (React Native, SQLite)
+- [Eat in Season](https://eat-in-season.vercel.app) - a recipe app that lets gardeners save their plants and search for recipes to cook with the bounty from the garden. NextJs, Supabase, Clerk, Zustand.
 
 <!--
 **kavunveronika/kavunveronika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
